@@ -1,6 +1,6 @@
 # Express-Generator-routing
 
-**Express Generatorとルーティング設定のプロトタイプ**
+**Express Generatorとテンプレエンジン(ejs)とルーティング設定のプロトタイプ**
 
 **以下4つのルーティング構成**
 `/`
