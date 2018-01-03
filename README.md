@@ -22,4 +22,4 @@
 
 `/hello/hoge`
 
-・起動する方法は、`npm start`で3000番で起動する
+・起動する方法は、`npm start`でlocalhost:3000にアクセスする
