@@ -2,13 +2,13 @@
 
 **Express Generatorとテンプレエンジン(ejs)とルーティング設定のプロトタイプ**
 
-**Express Generatorをインストールする**
+**Express Generatorをまずはインストールする**
 
 `npm install -g express-generator`
 
 **フォルダを作成する**
 
-`express -e アプリケーション名`　← かならず-eを付けておく
+`express -e アプリケーション名`　← かならず`-e`を付けておかないとejsが使用できない
 
 **以下4つのルーティング構成**
 
