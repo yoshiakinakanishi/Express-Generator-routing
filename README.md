@@ -1,6 +1,6 @@
 # Express-Generator-routing
 
-# Express Generatorとテンプレートエンジン(ejs)とルーティング設定のプロトタイプ
+・Express Generatorとテンプレートエンジン(ejs)とルーティング設定のプロトタイプ
 
 # Express Generatorをまずはインストールする
 
