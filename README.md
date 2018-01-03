@@ -2,15 +2,17 @@
 
 ・Express Generatorとテンプレートエンジン(ejs)とルーティング設定のプロトタイプ
 
-# Express Generatorをまずはインストールする
+# Express Generatorをインストール
 
 `npm install -g express-generator`
 
-# フォルダを作成する
+# フォルダを作成
 
 `express -e アプリケーション名`　← かならず`-e`を付けておかないとejsが使用できない
 
-# 以下の4つのルーティング構成にする
+# ルーティング構成
+
+・とりあえず、以下の４つの構成にする
 
 `/`
 
@@ -20,6 +22,4 @@
 
 `/hello/hoge`
 
-**起動方法**
-
-`npm start`で3000番で起動する
+・起動する方法は、`npm start`で3000番で起動する
